@@ -30,11 +30,11 @@ Before starting the installation, the disk is manually partitioned. My setup is 
 
 - 128GB Manjaro
 
-- 8GB swap
+    - 8GB swap
 
-- 60GB root (/)
+    - 60GB root (/)
 
-- 60GB home (/home)
+    - 60GB home (/home)
 
 - 1GB EFI (Special space reserved for OpenCore)
 
